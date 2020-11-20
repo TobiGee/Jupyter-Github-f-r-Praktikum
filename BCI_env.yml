@@ -1,4 +1,4 @@
-name: iracar
+name: BCI_env
 channels:
   - defaults
 dependencies:
@@ -116,4 +116,3 @@ dependencies:
     - sklearn==0.0
     - threadpoolctl==2.1.0
 prefix: C:\Users\tobia\Anaconda3\envs\iracar
-
